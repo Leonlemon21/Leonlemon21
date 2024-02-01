@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Leon Oparin
 - 👀 I’m interested in Games and Economics.
 - 🌱 I’m currently studying Business Informatics at the University of Potsdam.
-- 👾 I’m personally trying to learn Data Analysis on different games right know such as 
-      Pokemon etc. after that i hope to go deeper into the topic later
+- 👾 I’m personally trying to learn different kind of Skills in the Informatics.
 - 📫 If you want to contact me, you can generely write to my university email: leon.oparin@uni-potsdam.de else if you need an answer more immediatly then write to: leonti3005@gmail.com
 
 <!---
